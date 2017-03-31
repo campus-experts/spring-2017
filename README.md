@@ -4,7 +4,7 @@ Click on a week for details about the activities for that week. Future weeks wil
 
 Week                      | Starts            | Ends             | General Topics                                   | :movie_camera:
 ---                       | ---               | ---              | ---                                              | ---
-[Week 1](todos/week-1.md) | Mon, 2017-03-27  | Sun, 2016-04-02  | Introductions, logistics, community assessment   | [Video]((https://www.dropbox.com/s/3anmr8othdfa2vy/29thMarch2017Spring.mp4?dl=0)
+[Week 1](todos/week-1.md) | Mon, 2017-03-27  | Sun, 2016-04-02  | Introductions, logistics, community assessment   | [Video](https://www.dropbox.com/s/3anmr8othdfa2vy/29thMarch2017Spring.mp4?dl=0)
 
 ### Coming Up
 
