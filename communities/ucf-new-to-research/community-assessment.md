@@ -1,7 +1,7 @@
 # Community Assessment: Students conducting Computer Science research at UCF
 
 ## Definition
-* Students either interested in conducting or already conducting Computer Science research at the University of Central Florida
+* Students either interested in conducting or already conducting Computer Science research at the University of Central Florida.
 
 ## Size
 * 140 members of Mad Scientists Research Society (MSRS) Facebook group (the only student-led organization for undergraduate research at UCF); since the group is not specific to Computer Science, the actual number is likely much smaller.
