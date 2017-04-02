@@ -3,7 +3,7 @@
 ### Glossary
 
 BCU: Birmingham City University
-CEBE: The computing facculty at BCU
+CEBE: The computing faculty at BCU
 SU: Student's union (Birmingham City University Students Union)
 
 ## Definition :page_with_curl:
@@ -99,7 +99,7 @@ SU: Student's union (Birmingham City University Students Union)
   - Facebook pretty much exclusively. We do have a newsletter but thats one way communication.
 
 - Is there an email group, a GitHub organisation, a Twitter account, a Facebook group, a chat room or channel?
-  - Yes, all of the above. LINKS HERE
+  - Yes, all of the above. [Facebook](https://www.facebook.com/groups/hacsbcu/), [Twitter](https://twitter.com/hacsbcu), @HaCSBCU, [Web](https://hacs.tech)
 
 - Could your organisation benefit from one or more of those, or another way of communicating?
   - We will use whatever the majority use and is effective
