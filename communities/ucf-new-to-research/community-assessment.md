@@ -5,7 +5,7 @@
 
 ## Size
 * 140 members of Mad Scientists Research Society (MSRS) Facebook group (the only student-led organization for undergraduate research at UCF); since the group is not specific to Computer Science, the actual number is likely much smaller.
-* No information on number of students overall that are involved/interested in CS research
+* No information on number of students overall that are involved/interested in CS research.
 * Would like to have between 200-300 people in the community given the size of the school, or, as many as possible.
 
 ## Resources
@@ -25,7 +25,7 @@
 * Community is open to other topics (interdisciplinary research).
 
 ## Goals
-* Students join research communities to gain skills and experience to prepare them to start research or pursuing graduate education. Plenty of students also join who are interested in their chosen research fields, but are not yet sure if they want to pursue graduate school or a job after graduation.
+* Students join research communities to gain skills and experience to prepare them to start research or pursue graduate education. Plenty of students also join who are interested in their chosen research fields, but are not yet sure if they want to pursue graduate school or a job after graduation.
 * Since Computer Science research frequently involves development, skills gained also help students find internships and jobs.
 
 ## Location
