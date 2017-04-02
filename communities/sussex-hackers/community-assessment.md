@@ -20,24 +20,22 @@ The group is still less than a year old, probably 6 months and has been lacking 
 Currently - I have no idea how to grow it.
 
 ### Resources
-Hackathon society, occasional meetups sdsdj shdui , maybe a hackathon.
+Hackathon society, external makerspace, occasional meetups, maybe a hackathon.
 I would like to see hardware resources and hardware and software workshops.
 
 ### Accessibility
-Society is accessable to students of Sussex, meetup isn't run by students
+Society is accessable to students of Sussex. Makerspace meets on thursdays after 8 for dropins or more availability for members.
+Meetups aren't run by students. Hackathon is organised by the society, but currently infrequent in nature.
 
 ### Interests
-- Is your community made up only of computer science students? Are you OK with that?
-- Is your community open to other topics, or are their interests very specific?
+The community is only CS students, but I would like to see this grow and become accessable to students of all degrees, with an interest in technology. 
 
 ### Goals
-- Why do people get involved in your community?
-- Are they students hoping to get a degree?
-- Are they trying to ramp-up to get a job?
-- Are they passionate about developing, regardless of their major?
+Students hoping to get a degree and some trying to ramp-up to get a job
 - What activities and goals can you set for your community based on their existing goals?
 
 ### Location
+Currently the location is online only. 
 - Where does your community currently gather?
 - Is it an online-only group so far, or is there a place where people can meet?
 - Is there parking, and if so, is it free?
@@ -49,14 +47,15 @@ Society is accessable to students of Sussex, meetup isn't run by students
 - Is there water or snacks available nearby?
 
 ### Communication
-- How does your community get in touch with one another?
-- Is there an email group, a GitHub organization, a Twitter account, a Facebook group, a chat room or channel?
-- Could your organization benefit from one or more of those, or another way of communicating?
+Facebook and Whatsapp chat.
+I would like to see Slack become a bigger medium for communication as it fosters greater communication, whislt being self contained via threads and sub-groups.
 
 ### Culture
+Currently the community is inward facing. It has been described as Cliqué-y and uninviting.
 - How welcoming is your community to new people and new ideas?
+The group at present in unflexable and this needs work. Available space however is extremely flexable, on campus.
 - What happens if there is a disagreement?- How flexible is the space for different types of presentations and meetings?
 
-- Are there any policies or procedures in place, and are they documented?
-- How will you personally handle it?
+- Are there any policies or procedures in place, and are they documented? No
+- How will you personally handle it? Unsure.
 
