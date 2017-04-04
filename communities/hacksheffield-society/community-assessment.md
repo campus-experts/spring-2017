@@ -5,19 +5,22 @@ Students interested in tech and Hackathons at the University of Sheffield.
   
 ### Size
 - How many people are currently in your community?
+
+Officially, a little over 200 members. Reality, around 50 engaged members.
 - How many would you _like_ to be in your community?
+
+Improvement in engagement rate should be a priority.
 - Historically, has the group always been about the same size? If not, what brought on that change?
 
-- Officially, a little over 200 members. Reality, around 50 engaged members.
-- Improvement in engagement rate should be a priority.
-- The group has been around for a little over a year and has been growing steadily.
+The group has been around for a little over a year and has been growing steadily.
 
 ### Resources
 - What is currently available to people in your community to learn about tech?
+
+Opportunities to attend Hackathons with a local community.
 - Are there meetups, seminars, online tools, office hours, hackathons?
 
-- Opportunities to attend Hackathons with a local community.
-- We use Slack for team communication, facebook group for notifications: https://www.facebook.com/groups/1107551632685288/, facebook page for events https://www.facebook.com/pg/HackSheffield/events/. A committee meets most weeks to organise events, but no regular meetup for everyone.
+We use Slack for team communication, facebook group for notifications: https://www.facebook.com/groups/1107551632685288/, facebook page for events https://www.facebook.com/pg/HackSheffield/events/. A committee meets most weeks to organise events, but no regular meetup for everyone.
 
 ### Accessibility
 - How accessible are the current resources in your community?
