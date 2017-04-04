@@ -1,14 +1,5 @@
 ## HackSheffield Society
 
-Fully understanding the needs of your community is a complex concept that will likely take lots of time, conversation, and observation.  Depending on your situation, you may already have a great idea for what your community needs. You may not, and that's OK. We will go over these questions and topics broadly during week 1, and discuss responses in more detail in week 2. Here are some things to keep in mind when assessing your community and hoping to grow it.
-
-Please write down your
-- Answers to these questions for current community
-- Answers to these questions for **an ideal version** of your current community
-- Ideas on how to improve in each category
-
-After you've completed these questions, define your community in several short paragraphs for discussion in week 2.
-
 ### Definition
 Students interested in tech and Hackathons at the University of Sheffield.
   
