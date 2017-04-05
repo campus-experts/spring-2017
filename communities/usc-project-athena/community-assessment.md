@@ -39,3 +39,4 @@
 - If there is a disagreement, things will be talked out peacefully between the parties until it is resolved.
 - The organizing team has written out a policy of how the club/community should be run.
 - Personally, I will oversee any community activities to make sure everyone is feeling safe and happy.
+
