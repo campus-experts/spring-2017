@@ -11,7 +11,7 @@ Week                      | Starts            | Ends             | General Topic
 
 Week                      | Starts            | Ends             | General Topics
 ---                       | ---               | ---              | ---
-Week 3                    | Mon, 2017-04-10   | Sun, 2017-04-16  | Git/GitHub training, TBC
+Week 3                    | Mon, 2017-04-10   | Sun, 2017-04-16  | Git/GitHub training, GraphQL tech talk, Impact proposal reviews
 Week 4                    | Mon, 2017-04-17   | Sun, 2017-04-23  | TBC
 Week 5                    | Mon, 2017-04-24   | Sun, 2017-04-30  | TBC
 Week 6                    | Mon, 2017-05-01   | Sun, 2017-05-04  | TBC
