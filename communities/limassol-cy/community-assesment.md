@@ -1,67 +1,50 @@
 ## Assessing Your Community's Needs
 
-Fully understanding the needs of your community is a complex concept that will likely take lots of time, conversation, and observation.  Depending on your situation, you may already have a great idea for what your community needs. You may not, and that's OK. We will go over these questions and topics broadly during week 1, and discuss responses in more detail in week 2. Here are some things to keep in mind when assessing your community and hoping to grow it.
-
-Please write down your
-- Answers to these questions for current community
-- Answers to these questions for **an ideal version** of your current community
-- Ideas on how to improve in each category
-
-After you've completed these questions, define your community in several short paragraphs for discussion in week 2.
-
 ### Definition
 - How would you define your community? Try to be open minded, but here are some examples of ways you could define your community: 
-  - Women that use Linux
-  - Girls learning how to code
-  - Students interested in tech in the Central Florida region
-  - Computer Science teachers in the Orange County school district
-  - Online computer programming professors
-  - Hackers in and around London
+  - High School Hackers in and around Limassol, Cyprus
   
 ### Size
-- How many people are currently in your community?
-- How many would you _like_ to be in your community?
-- Historically, has the group always been about the same size? If not, what brought on that change?
+- Currently there's around 50 people in the community.
+- We'd like to see around 100 people until July. 
+- We had a sharp increase when we founded the community last April, and after the last event, in December 2016.
 
 ### Resources
-- What is currently available to people in your community to learn about tech?
-- Are there meetups, seminars, online tools, office hours, hackathons?
+- Currently we have our events, both the 24 hour hackathon and the 12 hour hackdays. 
+- Hackathon: Ninja Hacks - April & Local Hack Day  - Winter
 
 ### Accessibility
-- How accessible are the current resources in your community?
-- Are meetings held during hours where people may be working?
-- Is there childcare available?
+- Everything is fairly accsible, online and the in person workshops. 
+- Hackathons, Workshops are held on Saturdays. 
 
 ### Interests
-- Is your community made up only of computer science students? Are you OK with that?
-- Is your community open to other topics, or are their interests very specific?
+- The community is made up of only first time hackers introduced to the community through our hackathons, they come from all backgrounds from economics to art.
+- It's completely open to any high schooler that is interested in creating and technology. 
 
 ### Goals
-- Why do people get involved in your community?
-- Are they students hoping to get a degree?
-- Are they trying to ramp-up to get a job?
-- Are they passionate about developing, regardless of their major?
-- What activities and goals can you set for your community based on their existing goals?
+- We want people to get involved, to connect them to like minded people and create a safe and welcoming environment for everyone.
+- They all are high schoolers working for their A-Levels and Apolitirion. 
+- All of them are passionate about coding and the world of computer science, regardles their other interests. 
+- Workshops, Tech Talks and Hackathons
 
 ### Location
-- Where does your community currently gather?
-- Is it an online-only group so far, or is there a place where people can meet?
-- Is there parking, and if so, is it free?
-- Is there public transportation available to and from meet-ups?
-- Is the location accessible to those both on and off campus?
-- How much does it cost to use the space?
-- How flexible is the space for different types of presentations and meetings?
-- How many people can it fit?
-- Is there comfortable seating for all shapes and sizes?
-- Is there water or snacks available nearby?
+- We currently meet at the Hackathon venue, which is either a hotel or bank meeting room. 
+- It's more in person, looking to launch online too. 
+- Parking is always available.
+- Public Transportation is available in the form of busses. 
+- Locations are easily accesible to anyone. 
+- It's free to use the space. 
+- The space can be used for hackathons, presentations and workshops alike.
+- Up to 100 people can fit at a time. 
+- There's seating and tables avaialbe. 
+- There's food stores available close by. 
 
 ### Communication
-- How does your community get in touch with one another?
-- Is there an email group, a GitHub organization, a Twitter account, a Facebook group, a chat room or channel?
-- Could your organization benefit from one or more of those, or another way of communicating?
+- We communicate over Facebook Messenger and the Facebook Events.
+- There's not group just yet, we are working on that. 
 
 ### Culture
-- How welcoming is your community to new people and new ideas?
-- What happens if there is a disagreement?
-- Are there any policies or procedures in place, and are they documented?
-- How will you personally handle it?
+- We aim to welcome anyone who is interested to joing and provide them a safe environment to take the first steps in coding. 
+- Whenever there's any issue, two or more community leaders sit down with everyone involved and work through it. 
+- There are no official policies just yet, however we work on a warning-one strike policy. 
+- We always sit down with at least one more organizer, so that we can always have more than one pair of eyes as well as more ideas and a second perspective.
