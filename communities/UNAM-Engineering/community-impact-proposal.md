@@ -33,7 +33,7 @@ We usually communicate in private FB Messages or via Github Issues.
 We strongly believe that opening school projects gives others the posibility to
 learn from others. We're open to have a diverse community based on the will to learn
 and share. We know that students on the campus are developing projects and research 
-papers that should be proudly shown to others outside college.
+papers that should be proudly shown to others outside the university.
 
 
 ## Proposal
@@ -90,12 +90,20 @@ When identifying the impact of your proposal, you should focus on the following 
   - We could see if life streaming works and ad the links to the meetups in the
   GH repo.
 - **Content knowledge**
-  - TODO
+  - We're well connected in the industry robably would need to investigate more about
+  other organizations that take place in GH and their structures.
 
 ## Planning for the Future
 
-TODO
-
 - When will you review the impact of your proposal?
+
+Two weeks after Week 6
+
 - How will you measure success?
+
+By the conversations that take place on the Organization, the number of newcommers, amount of new 
+repos in the gitjub organization and meetup assitance.
+
 - How frequently will you iterate on your community plans?
+
+Every 2 months.
