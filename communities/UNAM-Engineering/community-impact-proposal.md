@@ -3,7 +3,7 @@
 ## Summary of the Community's Needs
 
 After holding a several conversations with some members of the Computer
-Engineering School I was able to get a deeper understanding on some core
+Engineering School, I was able to get a deeper understanding on some core
 points the community has been looking for or found missing in their period
 as students. The topics that were discussed the most were: 
   1. **Design and Develop Algorithms**.
@@ -19,7 +19,7 @@ as students. The topics that were discussed the most were:
   - **Size**: 42 Registered Members; 10 members sharing repos.
   - **Age**: 18-30 years.
   - **Main Backgrounds**: Computer Engineers, Computer Scientists.
-  - **Secondary Backgrounds**: Psicologists, Lawyers, .
+  - **Secondary Backgrounds**: Psicologists, Lawyers, etc.
   - **Resources**:
     - **People**: We have students we lots of expierience and freshmen as well.
     Also we have some teachers who mainly work on open source.
