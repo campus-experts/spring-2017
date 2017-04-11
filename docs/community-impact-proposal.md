@@ -15,7 +15,7 @@ The following pieces might help strengthen this section:
 In this section, articulate the project you want to accomplish during the Campus Experts program; provide a brief summary of what you are planning to accomplish with your project.
 
 The following pieces might help strengthen this section:
-- **Timing**: You're starting this proposal in Week 2 of the program, and you'll need to execute on your project by Week 6, so you have just about 4 weeks to plan and execute your project. Set the scope appropriately.
+- **Timing**: For most of you, it'll be nearing summer as you finish the training. This means exams, end of semester, and students disappearing to go on internships. This means it might be best to consider an event that happens after you return in the new semester: think about the impact that the new students will have on the event, and what the effect of students graduating will be.
 - **Community demographics**: If you are planning on increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
 - **Goals**: You identified the goals of your community assessment. Include a summary of those goals and how your proposal addresses those goals.
 - **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
