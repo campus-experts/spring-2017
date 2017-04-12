@@ -4,7 +4,7 @@ Click on a week for details about the activities for that week. Future weeks wil
 
 Week                      | Starts            | Ends             | General Topics                                   | :movie_camera:
 ---                       | ---               | ---              | ---                                              | ---
-[Week 3](todos/week-3.md)                    | Mon, 2017-04-10   | Sun, 2017-04-16  | Git/GitHub training, GraphQL tech talk, Impact proposal reviews | [Git/GitHub Workshop](https://www.dropbox.com/s/086yd5pq0m3e82f/gittalkcut.mp4?dl=0)
+[Week 3](todos/week-3.md)                    | Mon, 2017-04-10   | Sun, 2017-04-16  | Git/GitHub training, GraphQL tech talk, Impact proposal reviews | [Git/GitHub Workshop](https://www.dropbox.com/s/086yd5pq0m3e82f/gittalkcut.mp4?dl=0), [GraphQL Workshop](https://www.dropbox.com/s/nb6n9f9kr8nre1a/graphql.mp4?dl=0)
 [Week 2](todos/week-2.md)                    | Mon, 2017-04-03   | Sun, 2017-04-07  | Share assessment results & introduce impact proposal | [Video](https://www.dropbox.com/s/onvv9hdqwgptpww/week2.mp4?dl=0)
 [Week 1](todos/week-1.md) | Mon, 2017-03-27  | Sun, 2017-04-02  | Introductions, logistics, community assessment   | [Video](https://www.dropbox.com/s/3anmr8othdfa2vy/29thMarch2017Spring.mp4?dl=0)
 
