@@ -110,7 +110,7 @@ SU: Student's union (Birmingham City University Students Union)
   - Yes please! In fact, why not join our [Facebook](https://hacs.tech/) group right now!
 
 - What happens if there is a disagreement?
-  - We do our best to all conduct ourselves appropriately as adults.
+  - We do our best to all conduct ourselves appropriately as adults. We are also working towards creating and implemneting a [code of conduct](https://github.com/HaCSBCU/conduct) for all interactions
 
 - Are there any policies or procedures in place, and are they documented?
   - We have a manifesto and many other official documents. The boring SU documentation stuff is accessible in our committee slack and on the BCU moodle portal.
