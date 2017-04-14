@@ -1,22 +1,11 @@
-## Assessing Your Community's Needs
-
-Fully understanding the needs of your community is a complex concept that will likely take lots of time, conversation, and observation.  Depending on your situation, you may already have a great idea for what your community needs. You may not, and that's OK. We will go over these questions and topics broadly during week 1, and discuss responses in more detail in week 2. Here are some things to keep in mind when assessing your community and hoping to grow it.
-
-Please write down your
-- Answers to these questions for current community
-- Answers to these questions for **an ideal version** of your current community
-- Ideas on how to improve in each category
-
-After you've completed these questions, define your community in several short paragraphs for discussion in week 2.
-
 ### Definition
-Students at Aston University studying/interested in Computer Science or related subjects, and seeking help with the course or to learn more than is covered in their course.
+Primarily students at Aston University studying/interested in Computer Science or related subjects, and seeking help with the course or to learn more than is covered in their course.
 
 ### Size
 
 - How many people are currently in your community?
 
-Around about 120 listed members (although not certain on this), but many do not regularly attend events. Probably about 30 semi-regulars.
+Around about 120 listed members (although not certain on this, need to ask the SU for data), but many do not regularly attend events. Probably about 30 semi-regulars.
 
 - How many would you _like_ to be in your community?
 
@@ -30,11 +19,13 @@ It has been roughly similar as far as I've known, but the active members have de
 
 - What is currently available to people in your community to learn about tech?
 
-There is the course (of course! ᕕ(ȍ‿‿ȍ)ᕗ), but that tends to be pretty dry. There are many members of our society who are good at teaching others, and spreading their knowledge, however that's not frequently utilised. We're aiming to take advantage of this a bit more over the coming year.
+There is the course (of course! ᕕ(ȍ‿‿ȍ)ᕗ), but that tends to be pretty dry. There are many members of our society who are good at teaching others, and spreading their knowledge, however that's not frequently utilised. We're aiming to take advantage of this a bit more over the coming year, possibly through a CFP-type thing.
 
 - Are there meetups, seminars, online tools, office hours, hackathons?
 
-We frequently attend hackathons as a group (although the turnout is usually not amazing). We went through a phase of hosting office hours (although not by that name), but turnout was often low so we stopped. I think this was mainly because of total lack of structure, and also no real motivation to attend (lots of people do not really do side projects). We also host AstonHack, which gets loads of new people involved!
+We frequently attend hackathons as a group (although the turnout is usually not amazing). We went through a phase of hosting office hours (although not by that name), but turnout was often low so we stopped. I think this was mainly because of total lack of structure (not regular, organised last-minute), and also no real motivation to attend (lots of people do not really do side projects). I think we could gather more interest for this by specifically targeting the course - things like help with coursework or module support.
+
+We also host AstonHack, which gets loads of new people involved!
 
 ### Accessibility
 
