@@ -21,7 +21,7 @@ This proposal will focus on the Mad Scientists Research Society (MSRS), UCF's on
 
 ## Summary of Community's Needs
 
-The group has approximately 140 active members. The community culture is supportive of students new to research, and effort is made by officers to use inclusive language and encourage students who haven't started research yet to use the group as a resource to get involved.
+The group has approximately 140 active members. The community culture is supportive of students new to research, and an effort is made by officers to use inclusive language and encourage students who haven't started research yet to use the group as a resource to get involved.
 
 From my community assessment, I believe MSRS needs:
 - Improved campus visibility
@@ -29,12 +29,12 @@ From my community assessment, I believe MSRS needs:
 - Methods of quantifying impact of actions taken by the club; i.e., feedback from workshops, surveys from mentorship program participants, etc.
 - Retention of students who are new to research
 
-The community's strengths are its inclusive culture and mentorship program. While there are a variety of ways to improve club impact with new initiatives, this proposal mainly focuses on strengthening resources the club currently has, namely, its mentorship program.
+The community's strengths are its inclusive culture and mentorship program. While there are a variety of ways to improve club impact with new initiatives, this proposal mainly focuses on strengthening resources the club currently has -- namely, its mentorship program.
 
 ## The Proposal: Expansion of the Seedlings Mentorship Program
 
 ### Current Resources
-MSRS currently has a year-round mentorship program called Seedlings, where a student currently involved in research (usually a a junior or senior working in a lab or who has published before) is paired with a student new to undergraduate research or who is interested in starting undergraduate research. At the beginning of the fall and spring semesters, the Seedlings program accepts applications from undergraduate students to become mentors, and then takes applications from students who wish to be mentees. Mentees are matched to mentors with similar research interests and majors. It is expected that the mentor/mentee relationship continues without further club intervention.
+MSRS currently has a year-round mentorship program called Seedlings, where a student currently involved in research (usually a junior or senior working in a lab or who has published before) is paired with a student new to undergraduate research or who is interested in starting undergraduate research. At the beginning of the fall and spring semesters, the Seedlings program accepts applications from undergraduate students to become mentors, and then takes applications from students who wish to be mentees. Mentees are matched to mentors with similar research interests and majors. It is expected that the mentor/mentee relationship continues without further club intervention.
 
 ### The Problem
 Currently, our community does not have a way to quantify how our program affects students new to research, and we have received informal feedback that contact between mentor and mentee plateaus as the semester becomes busier. As a result, the desired mentee-mentor relationship does not develop and our program does not have the desired impact.
@@ -48,13 +48,13 @@ To strengthen our mentorship program, I propose:
 - Hold monthly socials/events for mentees and mentors to encourage consistent communication.
 - Survey both mentors and mentees at the end of each semester for feedback, and incorporate this feedback into the program design for the next school year.
 
-A website and email list will improve club visibility and make it easier to advertise the Seedlings initiative. Recruiting graduate students not only provides students with the goal of graduate school much-needed advice, but it also expands both the mentee and mentor pool. Currently, mostly first and second year students sign up to be mentees to learn from third and fourth year students. The participation of graduate mentors will hopefully encourage third and fourth year students to also sign up to be mentees. The meetings are intended to facilitate conversations about best-practices with mentorship and provide advice and increase mentor accountability. The events are intended to keep participants engaged and provide a fun environment for mentees to bond with their mentors.
+A website and email list will improve club visibility and make it easier to advertise the Seedlings initiative. Recruiting graduate students not only provides much-needed advice to students with the goal of attending graduate school, but also expands both the mentee and mentor pool. Currently, mostly first and second year students sign up to be mentees to learn from third and fourth year students. The participation of graduate mentors will hopefully encourage third and fourth year students to sign up to be mentees as well. The meetings are intended to facilitate conversations about best-practices with mentorship and increase mentor accountability. The events are intended to keep participants engaged and provide a fun environment for mentees to bond with their mentors.
 
 ### Timing
 I hope to begin work on this when I return to UCF after a co-op for Spring of 2018. The Seedlings mentorship program is active year-round, but revitalizing the program and opening up a new round of applications in spring will open the program to freshmen too overwhelmed by college starting to dive into campus communities and any other students unable to start the program in the fall.
 
 ### Community demographics
-While the explicit goal of this program is not to recruit more members, hopefully a more structured and visible mentorship program will appeal to potential members. We also hope that strong mentee/mentor relationships will help mentees who might not feel comfortable in academic research communities feel more comfortable and not only stay in the club, but also stay in their respective field. This is especially important for fields where retainment of minorities and women is a problem, such as computer science and engineering.
+While the explicit goal of this program is not to recruit more members, hopefully a more structured and visible mentorship program will appeal to potential members. We also hope that strong mentee/mentor relationships will help mentees who might not feel comfortable in academic research communities feel more comfortable and not only stay in the club, but also stay in their respective field. This is especially important for fields where retention of minorities and women is a problem, such as computer science and engineering.
 
 ### Goals
 Discussions with mentors and advice received will support the community's goals of providing resources to students new to research, and we hope being a mentor will be an enriching experience for older students and will also bolster their future graduate school, internship, or job applications.
