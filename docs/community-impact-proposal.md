@@ -31,7 +31,7 @@ I may do some other things if more ideas come in.
 - Timeline
   - Develop a rough timeline for your community impact project.
   
-  Publish the item and develop the website generation by the end of the programme.
+  Publish the item and develop the website generation by the end of the programme. Provide continuous support to past organisers as and when I feel most useful.
 
 ## Planning for the Future
 
