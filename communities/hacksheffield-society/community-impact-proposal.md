@@ -18,8 +18,8 @@ They also need a feeling of teamwork and bonding, and I will look to do anything
 Not many resources needed, I just need to sit down and think about fundamentals.
 - Media
 
-I am aiming to publish something in some form. This may be a public blog post, or a private file in the community Github organisation. This depends on how my ideas for setting the vision develop.
-As for the teamwork and bonding, I will use the Github API to generate a public website of the current teams in our Github organisation.
+I am aiming to publish something in some form. This may be a public blog post, or a private file in the community GitHub organisation. This depends on how my ideas for setting the vision develop.
+As for the teamwork and bonding, I will use the GitHub API to generate a public website of the current teams in our GitHub organisation.
 I may do some other things if more ideas come in.
 - Content knowledge
   - How knowledgeable are you on about the topic your community impact project focuses on?
