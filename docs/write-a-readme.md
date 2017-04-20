@@ -1,7 +1,7 @@
 # Write a README
 _This exercise will be updated with more resources after the Technical Writing talk_
 
-The README is the first thing people see when visiting your project. In this exercise, you'll apply what you learnt during the [Technical Writing]() to a project README.
+The README is the first thing people see when visiting your project. In this exercise, you'll apply what you learnt during the [Technical Writing](https://www.dropbox.com/s/8mk2lfcrvmj02cb/week4.mp4?dl=0) talk to a project README.
 
 ## Task
 You should complete **one** of the following:
