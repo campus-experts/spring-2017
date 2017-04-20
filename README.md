@@ -16,4 +16,4 @@ Week                      | Starts            | Ends             | General Topic
 Week 5                    | Mon, 2017-04-24   | Sun, 2017-04-30  | Guest talk: Andrew & Emma Seward, Community case study. Tech Talk: James Milner
 Week 6                    | Mon, 2017-05-01   | Sun, 2017-05-04  | Guest talk: Lara Hogan, Demystifying Public Speaking. Tech Talk: Phil Nash
 Week 7                    | Mon, 2017-05-08   | Sun, 2017-05-14  | Guest talk: Lee Dohm, Community Management
-Week 8                    | Mon, 2017-05-15   | Sun, 2017-05-21  | TBC
+Week 8                    | Mon, 2017-05-15   | Sun, 2017-05-21  | Guest talk: Peter Dave Hello
