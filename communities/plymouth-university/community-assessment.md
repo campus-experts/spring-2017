@@ -26,7 +26,7 @@ The University had a lot more tech activity when I was a fresher in 2012. It see
 
 ## Resources
 
-In particular when considering GDSoc, the amount of resources avalible to us are absolutely huge. The rest of the School of Computing also have quite a few resource avalible to us but they are not so "toy-driven".
+In particular when considering GDSoc, the amount of hardware resources avalible to us are absolutely huge. The rest of the School of Computing also have quite a few resource avalible to us but they are not so "toy-driven". Sadly the amount of experienced industry tech folk is much lower.
 
 ### What is current available to people in your community to learn about tech?
 
@@ -77,7 +77,7 @@ As the university currently only has one tech based society, most of this sectio
 
 ### Is your community made up only of computer science students? Are you OK with that?
 
-GDSoc is made up of computer scientists and aritsts, there is a large imbalance between engineers and designers within the society. However as it is often run by members of the Computing & Games Dev course it's content is often more tailored towards engineers.
+GDSoc is made up of computer scientists and aritsts, there is a large imbalance between engineers (more) and designers (fewer) within the society. However as it is often run by members of the Computing & Games Dev course it's content is often more tailored towards engineers.
 
 I'd love to get more designers involved and also some first time programmers who aren't on comp sci courses!
 
