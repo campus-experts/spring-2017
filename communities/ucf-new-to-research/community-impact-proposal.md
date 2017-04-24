@@ -34,7 +34,7 @@ The community's strengths are its inclusive culture and mentorship program. Whil
 ## The Proposal: Expansion of the Seedlings Mentorship Program
 
 ### Current Resources
-MSRS currently has a year-round mentorship program called Seedlings, where a student currently involved in research (usually a junior or senior working in a lab or who has published before) is paired with a student new to undergraduate research or who is interested in starting undergraduate research. At the beginning of the fall and spring semesters, the Seedlings program accepts applications from undergraduate students to become mentors, and then takes applications from students who wish to be mentees. Mentees are matched to mentors with similar research interests and majors. It is expected that the mentor/mentee relationship continues without further club intervention.
+MSRS currently has a year-round mentorship program called Seedlings, where a student currently involved in research (usually a junior or senior working in a lab) is paired with a student new to undergraduate research or who is interested in starting undergraduate research. At the beginning of the fall and spring semesters, the Seedlings program accepts applications from undergraduate students to become mentors, and then takes applications from students who wish to be mentees. Mentees are matched to mentors with similar research interests and majors. It is expected that the mentor/mentee relationship continues without further club intervention.
 
 ### The Problem
 Currently, our community does not have a way to quantify how our program affects students new to research, and we have received informal feedback that contact between mentor and mentee plateaus as the semester becomes busier. As a result, the desired mentee-mentor relationship does not develop and our program does not have the desired impact.
@@ -84,7 +84,7 @@ Since the Seedlings program is a subset of MSRS, communication is carried out ov
         - Early in the month: Open applications for mentors. Expand mentor recruitment to graduate students. Begin mentor training.
         - Mid-month: Post profiles of selected graduate students. Hold a social so interested students can meet mentors. Allow students to begin selecting mentors.
         - End of month: Pair all interested students to a mentor. Hold a social for all mentors and mentees. Ensure mentors have sufficient resources.
-    - **February and March:** Hold a monthly meetings with mentors to share progress and best-practices. Hold another social to encourage mentor-mentee interaction.
+    - **February and March:** Hold monthly meetings with mentors to share progress and best-practices. Hold another social to encourage mentor-mentee interaction.
     - **April:** Hold final social for all mentors and mentees. Send survey to mentors and mentees to receive program feedback. Review feedback with officers to improve program for next school-year.
 
 ## Planning for the Future
