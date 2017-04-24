@@ -16,7 +16,9 @@
 * Research talks are frequently given by faculty, visiting faculty, and graduate students.
 
 ## Accessibility
-* MSRS has supportive officers willing to help any members, but the club as a whole has low visibility in the UCF community compared to other clubs. While the officers are helpful, executive board meetings are not accessible to the rest of the club and there is no clear path to officership. There are only a few club meetings a semester, which makes club involvement difficult if a member is working or cannot attend one of the meetings. No resources exist in the club that cater to older or less traditional students; i.e., no childcare is available and discussions tend to be focused on the traditional 4-year degree.
+* MSRS has supportive officers willing to help any members, but the club as a whole has low visibility in the UCF community compared to other clubs. Since the club does not have any officers dedicated specifically to handling a website or advertising for the club, promoting the club is a lower priority than planning meetings or workshops. As a result, there is limited advertising.
+* While the officers are helpful, executive board meetings are not accessible to the rest of the club and there is no clear path to officership. Since there is no external website for the club, there is no location (other than Facebook) to keep a catalog of meeting minutes. I think the closed executive board meetings stem from the club's perspective on officership- since meetings are infrequent and thus opportunities for member involvement are scarce, officer meetings are less about coming together with the entire club to plan and more about how to provide the best content at the next workshop or meeting. I think a more transparent approach, one that invites members, would be better. Since there are so few meetings in a semester, there are few opportunities for new members to really get involved. As a result, there is no clear way for members to elevate themselves through their contributions and use this in a platform to run for an officer role.
+* There are only a few club meetings a semester, which makes club involvement difficult if a member is working or cannot attend one of the meetings. No resources exist in the club that cater to older or less traditional students; i.e., no childcare is available and discussions tend to be focused on the traditional 4-year degree.
 * Information for UCF's undergraduate research opportunities are all online, and this information is very comprehensive.
 * UCF's Honors College is restricted only to Honors students.
 
@@ -41,5 +43,5 @@
 * UCF's official undergraduate research office communicates to students via email. Clubs evangelizing for the official office would help more students make it to workshops.
 
 ## Culture
-* The communities are all very welcoming to new members.
+* The communities are all very welcoming to new members. Generally, this is communicated in promotional materials by adding the text "New students/members welcome!" or something similar. There's a general emphasis on welcoming students new to research, but more could be done to ensure it is clearly communicated that all all experience levels and academic backgrounds are welcomed. 
 * For the student communities, documented policies and procedures are not available to general members.
