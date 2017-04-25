@@ -1,5 +1,6 @@
 # To Do
 
+1. Complete the mid-training survey: https://goo.gl/forms/wDBO77MzuKyiaAa72
 1. Watch the [Technical Writing guest talk](https://www.dropbox.com/s/8mk2lfcrvmj02cb/week4.mp4?dl=0) if you haven't already.
 1. Complete the Technical Writing week exercise - [Write a README](https://github.com/campus-experts/spring-2017/blob/master/docs/write-a-readme.md)!
 1. Participate in the [discussion](https://github.com/campus-experts/discuss/issues) this week - [passing the torch](https://github.com/campus-experts/discuss/issues/2).
