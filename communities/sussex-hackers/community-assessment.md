@@ -10,33 +10,39 @@ Please write down your
 After you've completed these questions, define your community in several short paragraphs for discussion in week 2.
 
 ### Definition
-- The current community I am a part of is hackers at Sussex University.
-- Ideally this will grow to a community in and around Brighton (to connect the two universities in that area).
+- The current community at Sussex is fragmented into computer science year groups, with very little cross year communication (or small groups left from HackSoc).
+- Ideally every year group will be able to communicate to anyone else throughout the school of computer science.
+- I plan on beginning this by creating social media groups that can join these fragments together.
 
 ### Size
 - The community is about 20 or so people, with low activity and low engagement.
-- I would ideally like to see a larger number of students to get involved with more frequent events to foster engagement.
-The group is still less than a year old, probably 6 months and has been lacking in community leaders.
-- I would like to create a community run online space where the community is in charge of its own growth. By which I would like to see anyone, society or individuals, able to create and run events how they see fit and make this accessable to anyone interested.
+- Ideally I'd like to see 100 students from all aspects of CS and it's year groups able to communicate with one another.
+- By implementing some social media groups and getting the word out to the members of the smaller fragmented groups, I will hopefully be able to pull these together to create a larger base.
 
 ### Resources
-Hackathon society, external makerspace, occasional meetups, maybe a hackathon.
-I would like to see hardware resources and hardware and software workshops and consistant meetups to share ideas.
+- Hackathon society, external makerspace, occasional meetups, maybe a hackathon (and to a lesser extent a "Peer Assisted Learning" (PAL) program).
+- Ideally I would like to see workshops and talks come about to help increase interest in the community and foster communication between the members.
+- I am working on talks and workshops to present to the students and I will need to find some willing leaders to help do the same.
 
 ### Accessibility
-Society is accessable to students of Sussex. Makerspace meets on thursdays after 8 for dropins or more availability for members.
-Meetups aren't run by students. Hackathon is organised by the society, but currently infrequent in nature.
+- Society is accessible to students of Sussex.
+- Makerspace meets on Thursdays after 8 for drop-ins or more availability for members.
+- Meetups aren't run by students.
+- Hackathon is organised by the society, but currently infrequent in nature.
 
 ### Interests
-The community is only CS students, but I would like to see this grow and become accessable to students of all degrees, with an interest in technology. For now, I will be focusing on the CS students.
+The community is only CS students, but I would like to see this grow and become accessible to students of all degrees, with an interest in technology. For now, I will be focusing on the CS students.
 
 ### Goals
-Students hoping to get a degree and some trying to ramp-up to get a job
-- What activities and goals can you set for your community based on their existing goals?
+- Currently the community only has an interest in getting a degree and a job.
+
+- The PAL sessions help with the degree aspect.
+- I will look into asking companies to come and do a talk, with recruitment help after.
 
 ### Location
 Currently the location is online only.
 
+Questions to answer;
 - Where does your community currently gather?
 - Is it an online-only group so far, or is there a place where people can meet?
 - Is there parking, and if so, is it free?
@@ -48,17 +54,19 @@ Currently the location is online only.
 - Is there water or snacks available nearby?
 
 ### Communication
-Facebook and Whatsapp chat.
+- Currently; Barely active Facebook and Whatsapp chat.
+- Ideally; Active groups/chats.
 
 ### Culture
-Currently the community is inward facing. It has been described as Cliqué-y and uninviting.
-- How welcoming is your community to new people and new ideas?
-The group at present in unflexable and this needs work. Available space however is extremely flexable, on campus.
-- What happens if there is a disagreement?
-- How flexible is the space for different types of presentations and meetings?
+- Currently the community is inward facing. Few attempts have been made to branch across the year gaps.
+- The community is welcoming to those that make an attempt, but doesn't make an external effort.
+- Spaces on campus are extremely flexible. Rooms are available from small workshop rooms, to large lecture theatres.
 
-- Policies or procedures?
-A code of conduct exists for HackSoc, and I would like to incorperate this into the community as a standard
+-- Policies or procedures?  
+A code of conduct exists for HackSoc, and I would like to incorporate this into the community as a standard.
 
-- How will you personally handle it?
-Unsure.
+-- How will you personally handle it?  
+Moderating. Users will be warn/banned if they fail to follow the rules.
+
+-- What happens if there is a disagreement?  
+In the event of a breach of the code of conduct, users will be warned/banned, failing a breach, the issue will be looked into, but if no wrong doing has happened, I would ask that they refrain from communicating. Follow ups will be made.
