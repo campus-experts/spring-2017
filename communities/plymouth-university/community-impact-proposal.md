@@ -66,3 +66,5 @@ Pretty much this entire proposal stems beyond the 8 week programe. So the main t
 2. Interest by one or more students in taking on the campus expert training to succeede myself.
 3. New knowledge being delivered by students to each other.
 4. Regular high quality discussion taking place via the communication platform.
+
+Beyond Plymouth as I move forward, I'll be moving to Bristol as a software engineer at Gradient. This will give me a chance to connect in with Bristol Uni and try and hook in a few students to the Campus Expert programme to pass on the tourch for the south west.
