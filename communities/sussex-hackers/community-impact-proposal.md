@@ -1,22 +1,20 @@
 ## Summary of the Community's Needs
 
-Provide a summary of what you learned from your community assessment, coupled with the feedback from others (like the opinion of other Campus Experts, community leaders, and stakeholders).
-
-The following pieces might help strengthen this section:
 - **Community demographics**: Include data gathered from your community assessment like: the size of the community that you are targeting with your proposal, the educational background of your community, and the resources they currently have at their disposal and how accessible they are to the community.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community prefers to communicate.
-- **Culture**: Summarize the existing culture within the community you are working with.
+  - I will be targeting a community of >50 members, primarily those within the computer science department at Sussex university, which is often low knowledge of things outside of accademia. Resources are scarce and will require petitioning of the societies, lecturers and professionals around Brighton and Sussex to help contribute to this.
+- **Communication**: Historically they have communicated through Facebook and WhatsApp.
+- **Culture**: Memes and gifs? Whiteguys? I'm not sure how to answer this...
 
 
 ## Your Proposal
 
-In this section, articulate the project you want to accomplish during the Campus Experts program; provide a brief summary of what you are planning to accomplish with your project.
+With this project I will be aiming to create a community targeted at students interested in computer science and tech. Using the existing communities of 2 societies that had high interest but low engagement I will attempt to join them together into a community driven by its members and not by the societies. This allows the societies to have as much or as little engagement with the community without being the reason the community succeeds or fails.
 
-The following pieces might help strengthen this section:
-- **Timing**: You're starting this proposal in Week 2 of the program, and you'll need to execute on your project by Week 6, so you have just about 4 weeks to plan and execute your project. Set the scope appropriately.
-- **Community demographics**: If you are planning on increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
-- **Goals**: You identified the goals of your community assessment. Include a summary of those goals and how your proposal addresses those goals.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
+- **Community demographics**: The aim is to create a community from almost nothing, which is the initial growth. Hopefully this initial program can help bring to light local members who would be capable of helping grow the community. I would like to see a community of 50 members within the first 6 weeks, growing to 80 by the end of the term (I am not expecting this to be all active members).
+- **Goals**: To create a self-sustaining community that cana be influenced but not driven by university societies, and to bridge a gap that can lead to shared resources with Sussex's neighbouring university (Brighton).
+- **Communication**: We will begin with online communication and hopefully a meeting space, the exact nature of the meeting space is yet to be decided.
+- **Timing**: A few weeks prep before the begining of the new acedemic term, and a several weeks of targeted advertising of events to help demonstrate activity.
+  - **Events are unplanned at this time and need more research.**
 
 
 ## Your Proposal's Impact
@@ -26,26 +24,26 @@ Itemize each of the needs you hope to address with your proposal and indicate wh
 
 When identifying the impact of your proposal, you should focus on the following areas:
 - Target audience
-  - Who are you expecting to impact based on your proposal?
+  - Students with interests in computing and other technologies.
 - Community needs
-  - What specific issue are you addressing with your proposal?
+  - The joining of existing and fragmented (or dormant) communities created by the tech societies of Sussex.
 - Resources
-  - What resources do you need to accomplish your proposal?
-  - How will you obtain those resources?   
+  - Willing community leaders
+  - Unsure. Will look into ways to draw out students who could become active members or community leaders within the university.
 - Media
   - How are you preparing to deliver your community impact project?
   - What are you going to do to prepare to deliver the content?
 - Content knowledge
-  - How knowledgeable are you on about the topic your community impact project focuses on?
-  - What resources do you have at your disposal to enhance that knowledge?
+  - I have a fledgling knowledge of creating a community from information I have picked up and my previous attempts to create a community.
+  - The other campus experts would be a great resource to learn from as many of them have created or heavily impacted their own communities prior to this program.
 - Timeline
-  - Develop a rough timeline for your community impact project.
-  - If you are presenting content, identify the timing of your presentation.
+  - 8 weeks -> 12 weeks
+  - **Content may be produced; more research required.**
 
 ## Planning for the Future
 
 In this section, think about how your efforts can expand beyond this 8-week program. Some questions you can answer that might help strengthen this section are:
 
-- When will you review the impact of your proposal?
-- How will you measure success?
-- How frequently will you iterate on your community plans?
+- Periodically. Week 4, 6, 8 and 12 would all be good times to analyse the progress.
+- Numbers of students that have joined the community would be a good measure of success
+- If this succeeds, I would like to attempt a follow up version with on a larger scale, looking for more leaders and more content to create better engagement.
